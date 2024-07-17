@@ -13,3 +13,5 @@ for i in range(len(slowo)):
 
 if same == len(slowo):
     print(f"{slowo} jest palindromen")
+
+print("Zmiany")
